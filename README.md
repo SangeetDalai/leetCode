@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SangeetDalai/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SangeetDalai/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SangeetDalai/leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/SangeetDalai/leetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/SangeetDalai/leetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SangeetDalai/leetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SangeetDalai/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SangeetDalai/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SangeetDalai/leetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SangeetDalai/leetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SangeetDalai/leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SangeetDalai/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -54,9 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SangeetDalai/leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SangeetDalai/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/SangeetDalai/leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/SangeetDalai/leetCode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SangeetDalai/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
