@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SangeetDalai/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SangeetDalai/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SangeetDalai/leetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/SangeetDalai/leetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SangeetDalai/leetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SangeetDalai/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,5 +98,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0054-spiral-matrix) |
 | [1314-matrix-block-sum](https://github.com/SangeetDalai/leetCode/tree/master/1314-matrix-block-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
