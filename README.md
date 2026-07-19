@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SangeetDalai/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/SangeetDalai/leetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/SangeetDalai/leetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SangeetDalai/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/SangeetDalai/leetCode/tree/master/1314-matrix-block-sum) |
@@ -99,9 +100,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/SangeetDalai/leetCode/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/SangeetDalai/leetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
