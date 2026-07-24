@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SangeetDalai/leetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SangeetDalai/leetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SangeetDalai/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SangeetDalai/leetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SangeetDalai/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SangeetDalai/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SangeetDalai/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SangeetDalai/leetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SangeetDalai/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SangeetDalai/leetCode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SangeetDalai/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SangeetDalai/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SangeetDalai/leetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/SangeetDalai/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SangeetDalai/leetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
