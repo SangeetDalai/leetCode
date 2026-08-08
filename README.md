@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SangeetDalai/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/SangeetDalai/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/SangeetDalai/leetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SangeetDalai/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SangeetDalai/leetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SangeetDalai/leetCode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/SangeetDalai/leetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SangeetDalai/leetCode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/SangeetDalai/leetCode/tree/master/0611-valid-triangle-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SangeetDalai/leetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/SangeetDalai/leetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
